@@ -1,5 +1,5 @@
 basic:
-    name: 'Kassulke, Muller and Lang'
+    name: Stehr-Romaguera
     environments:
         production: 'https://google.com'
         staging: ''
